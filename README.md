@@ -119,7 +119,7 @@ SSAFY 8기 2학기 공통프로젝트 - 쓰임
 
 ## ⚒ 프로젝트 아키텍쳐
 
-![architecture](C:/Users/SSAFY/Desktop/docs/images/architecture.png)
+![architecture](docs/images/architecture.png)
 
 
 ## 🖥️ 쓰임 서비스 화면 
@@ -333,31 +333,31 @@ FRONTEND\PEACE_STUDYMOIM\SRC
 
 ## 📰 프로젝트 산출물 
 
-[Git Commit Message Convention](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/Git_Commit_Message_Convention.pdf)
+[Git Commit Message Convention](https://github.com/chaedev3/studymoim/blob/master/docs/Git_Commit_Message_Convention.pdf)
 
-[ERD Convention](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/ERD_Convention.pdf)
+[ERD Convention](https://github.com/chaedev3/studymoim/blob/master/docs/ERD_Convention.pdf)
 
-[ERD](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/ERD.md)
+[ERD](https://github.com/chaedev3/studymoim/blob/master/docs/ERD.md)
 
-[DB dump 파일](https://github.com/SeoYeonBae/studymoim/blob/develop/exec/studymoim.sql)
+[DB dump 파일](https://github.com/chaedev3/studymoim/blob/master/exec/studymoim.sql)
 
-[기능명세서](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/%EA%B8%B0%EB%8A%A5%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
+[기능명세서](https://github.com/chaedev3/studymoim/blob/master/docs/%EA%B8%B0%EB%8A%A5%EB%AA%85%EC%84%B8%EC%84%9C.pdf)
 
-[요구사항 정의서](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
+[요구사항 정의서](https://github.com/chaedev3/studymoim/blob/master/docs/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
 
-[Figma](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/Figma.md)
+[Figma](https://github.com/chaedev3/studymoim/blob/master/docs/Figma.md)
 
-[회의록](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
+[회의록](https://github.com/chaedev3/studymoim/blob/master/docs/%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
 
 
 ## 📑 프로젝트 결과물 
 
-[포딩 매뉴얼](https://github.com/SeoYeonBae/studymoim/blob/develop/exec/%ED%8F%AC%EB%94%A9%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
+[포딩 매뉴얼](https://github.com/chaedev3/studymoim/blob/master/exec/%ED%8F%AC%EB%94%A9%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
 
-[중간 발표 자료 ppt](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pptx)
+[중간 발표 자료 ppt](https://github.com/chaedev3/studymoim/blob/master/docs/%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pptx)
 
-[중간 발표 자료 pdf](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf)
+[중간 발표 자료 pdf](https://github.com/chaedev3/studymoim/blob/master/docs/%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf)
 
-[최종 발표 자료 ppt](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pptx)
+[최종 발표 자료 ppt](https://github.com/chaedev3/studymoim/blob/master/docs/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pptx)
 
-[최종 발표 자료 pdf](https://github.com/SeoYeonBae/studymoim/blob/develop/docs/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
+[최종 발표 자료 pdf](https://github.com/chaedev3/studymoim/blob/master/docs/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
